@@ -15,9 +15,6 @@ using System.Windows.Shapes;
 
 namespace spiral
 {
-    /// <summary>
-    /// Interaction logic for Spiral.xaml
-    /// </summary>
     public partial class Spiral : Window
     {
         Canvas canvas;
